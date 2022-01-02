@@ -1,16 +1,20 @@
 # flutter_pokedex
 
-A new Flutter project.
+It is development work for Flutter tutorial.
 
 ## Getting Started
+ 
+A few required resources to get you test this Flutter project:
 
-This project is a starting point for a Flutter application.
+- [Models : The classes for the json data used in the project are prepared using https://app.quicktype.io/.](https://app.quicktype.io/)
 
-A few resources to get you started if this is your first Flutter project:
+- [Pokedex API : API Source used for json pokemon data used](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Used dependencies:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Dio :A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.](https://pub.dev/packages/dio)
+- [flutter_screenutil : A flutter plugin for adapting screen and font size.Guaranteed to look good on different models](https://pub.dev/packages/flutter_screenutil)
+- [google_fonts: The google_fonts package for Flutter](https://pub.dev/packages/google_fonts)
+- [cached_network_image : A flutter library to show images from the internet and keep them in the cache directory.](https://pub.dev/packages/cached_network_image)
+
+Tüm içerik ve proje eğitim sürecinde çalışma için yapılmıştır.
